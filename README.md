@@ -1,4 +1,4 @@
-# consultor-de-cep
+# Consultor de cep
 Consultar endereço através do cep. Projeto desenvolvido durante minha formação na Alura + ONE - Oracle Next Education, Turma T6.  
 
 ## resumo
